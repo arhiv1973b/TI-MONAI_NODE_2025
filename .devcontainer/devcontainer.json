@@ -1,6 +1,6 @@
 {
-  "name": "TI-MONAI_NODE_2025",
-  "dockerFile": "../Dockerfile",
-  "forwardPorts": [8888],
-  "postCreateCommand": "jupyter lab --generate-config"
+  \"name\": \"TI-MONAI_NODE_2025\",
+  \"dockerFile\": \"../Dockerfile\",
+  \"forwardPorts\": [8888],
+  \"postCreateCommand\": \"jupyter lab --generate-config\"
 }

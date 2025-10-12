@@ -1,0 +1,8 @@
+{
+  \"name\": \"TI-MONAI_NODE_2025\",
+  \"version\": \"1.0.0\",
+  \"description\": \"Архитектурный узел памяти, справедливости и автономии\",
+  \"author\": \"?Алексей?\",
+  \"codex_signature\": \"TI-MONAI_NODE_2025\",
+  \"components\": [\"Dockerfile\", \"Codex CLI\", \"WAMP\", \"README.md\", \"Markdown act\"]
+}
